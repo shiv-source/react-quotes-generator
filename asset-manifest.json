@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-quotes-generator/static/css/main.ff5b7177.css",
+    "main.js": "/react-quotes-generator/static/js/main.a632f715.js",
+    "static/js/787.9b7b3a7d.chunk.js": "/react-quotes-generator/static/js/787.9b7b3a7d.chunk.js",
+    "static/media/loader.gif": "/react-quotes-generator/static/media/loader.a1a996746e5e48352c81.gif",
+    "index.html": "/react-quotes-generator/index.html",
+    "main.ff5b7177.css.map": "/react-quotes-generator/static/css/main.ff5b7177.css.map",
+    "main.a632f715.js.map": "/react-quotes-generator/static/js/main.a632f715.js.map",
+    "787.9b7b3a7d.chunk.js.map": "/react-quotes-generator/static/js/787.9b7b3a7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff5b7177.css",
+    "static/js/main.a632f715.js"
+  ]
+}
